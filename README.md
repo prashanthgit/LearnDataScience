@@ -16,3 +16,14 @@ Lean data science
       git checkout master<br>
       git checkout temp<br>
       git merge master <br>
+      git reset <br>
+      git log <br>
+      git remote -v <br>
+      git branch -q <br>
+      git diff <br>
+
+      before push do a git pull origin master
+
+
+      ..<br>
+      git init - initiate from local repo <br>
