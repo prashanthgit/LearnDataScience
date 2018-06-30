@@ -6,7 +6,7 @@ Lean data science
       git  status<br>
       git add Python1-numpy.ipynb<br>
       git  status<br>
-      git commit -m "numPy note book"<br>
+      git commit -m "numPy note book"  --amend to replace last one<br>
       git push<br>
       git branch<br>
       git checkout temp<br>
@@ -22,7 +22,7 @@ Lean data science
 
       git merge master <br>
       git reset <br>
-      git log <br>
+      git log --stat<br>
       git remote -v infor about remote repo<br>
       git branch -q <br>
       git diff <br>
@@ -35,4 +35,7 @@ Lean data science
       git init - initiate from local repo <br>
 
       videos<br>
-      https://www.youtube.com/watch?v=FdZecVxzJbk
+      https://www.youtube.com/watch?v=FdZecVxzJbk <br>
+
+      git checkout README.md <br>
+      git reflog<br>
