@@ -15,6 +15,7 @@ Lean data science
       git branch<br>
       git checkout master<br>
       git checkout temp<br>
+      git branch --merged tells which branch are merged<br> 
       git merge master <br>
       git reset <br>
       git log <br>
@@ -23,6 +24,7 @@ Lean data science
       git diff <br>
 
       before push do a git pull origin master
+
 
 
       ..<br>
