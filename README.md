@@ -20,6 +20,10 @@ Lean data science
       git log <br>
       git remote -v <br>
       git branch -q <br>
+      git diff <br>
 
-      ..
+      before push do a git pull origin master
+
+
+      ..<br>
       git init - initiate from local repo <br>
