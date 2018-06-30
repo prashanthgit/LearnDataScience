@@ -8,3 +8,11 @@ Lean data science
       git  status<br>
       git commit -m "numPy note book"<br>
       git push<br>
+      git branch<br>
+      git checkout temp<br>
+      git add . <br>
+      git commit<br>
+      git branch<br>
+      git checkout master<br>
+      git checkout temp<br>
+      git merge master <br>
