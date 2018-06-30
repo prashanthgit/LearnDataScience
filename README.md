@@ -1,7 +1,7 @@
 # LearnDataScience
 Lean data science
 
-1. Git cmds
+1. <h1>Git cmds</h1>
       git clone https://github.com/prashanthgit/LearnDataScience.git<br>
       git  status<br>
       git add Python1-numpy.ipynb<br>
