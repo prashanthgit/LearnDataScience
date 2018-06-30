@@ -16,10 +16,14 @@ Lean data science
       git checkout master<br>
       git checkout temp<br>
       git branch --merged tells which branch are merged<br> 
+      git branch -d temp remove locally <br>
+
+
+
       git merge master <br>
       git reset <br>
       git log <br>
-      git remote -v <br>
+      git remote -v infor about remote repo<br>
       git branch -q <br>
       git diff <br>
 
@@ -29,3 +33,6 @@ Lean data science
 
       ..<br>
       git init - initiate from local repo <br>
+
+      videos<br>
+      https://www.youtube.com/watch?v=FdZecVxzJbk
