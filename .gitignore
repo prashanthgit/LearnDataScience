@@ -55,7 +55,10 @@
 *.csv
 *.txt
 *.xlsx
+<<<<<<< HEAD
 *.mat
+=======
+>>>>>>> bf12229f76e469f73687b0e38c02b7c0cd3b8512
 
 # Logs and databases #
 ######################
