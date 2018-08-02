@@ -55,6 +55,7 @@
 *.csv
 *.txt
 *.xlsx
+*.mat
 
 # Logs and databases #
 ######################
